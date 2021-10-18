@@ -1,3 +1,5 @@
+[![AWS 3.6.15](https://github.com/sammykyu/scaffold/actions/workflows/aws.yml/badge.svg)](https://github.com/sammykyu/scaffold/actions/workflows/aws.yml)
+
 [![Azure Python 3.5](https://github.com/sammykyu/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/sammykyu/scaffold/actions/workflows/main.yml)
 
 # scaffold demo
