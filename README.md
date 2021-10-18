@@ -2,6 +2,8 @@
 
 [![Azure Python 3.5](https://github.com/sammykyu/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/sammykyu/scaffold/actions/workflows/main.yml)
 
+[![GCP Python 3.7](https://github.com/sammykyu/scaffold/actions/workflows/gcp.yml/badge.svg)](https://github.com/sammykyu/scaffold/actions/workflows/gcp.yml)
+
 # scaffold demo
 This is a repo for building out Github Actions and Tricks.  I test multiple clouds and multiple versions of Python.
 
